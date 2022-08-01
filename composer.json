@@ -1,0 +1,17 @@
+{
+    "name": "apptut/web-util",
+    "description": "tool class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Apptut\\WebUtil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
